@@ -1,0 +1,16 @@
+{
+    "name": "cyblance/nigam",
+    "description": "contact form plugin",
+    "type": "library",
+    "require": {
+        "prestashop/contactform": "dev-dev"
+    },
+    "license": "4",
+    "authors": [
+        {
+            "name": "solanki nigam",
+            "email": "cyblance.nigam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
